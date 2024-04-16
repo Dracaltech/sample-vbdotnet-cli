@@ -25,7 +25,7 @@ dotnet run sample-vbdotnet-cli.sln
 
 
 ## Sample output
-<img src="https://github.com/Dracaltech/sample-vbdotnet-cli/assets/1357711/655893a6-3305-4044-8285-d4cbdf418ac4" width=400 />
+<img src="https://github.com/Dracaltech/sample-vbdotnet-cli/assets/1357711/c36941a9-b34a-409f-a000-76f10282fa21" width=400 />
 
 ```
 Pressure..(kPa): 101.00
